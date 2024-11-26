@@ -1,0 +1,22 @@
+{
+    "2": {
+        "name": "Anamala Abhishek",
+        "course": "Computer Science",
+        "phone": "7095317781",
+        "address": "Madhapatnam,opposite cheeruvu street",
+        "year": "2nd Year",
+        "email": "anamalaabhishek12891919@gmail.com",
+        "batch": "2023-2025",
+        "photo": "images/abhishek.jpeg"
+    },
+    "1": {
+        "name": "",
+        "course": "",
+        "phone": "",
+        "address": "",
+        "year": "",
+        "email": "",
+        "batch": "",
+        "photo": ""
+    }
+}
